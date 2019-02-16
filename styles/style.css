@@ -1,0 +1,42 @@
+html {
+  background-color: #d80c8a;
+  width: 1280px;
+  font-size: 12px;
+  font-family: 'Merriweather', serif;
+}
+
+body {
+  display: block;
+  background-color: #000000;
+  /* width: 900px; */
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  font-size: 60px;
+  color: #ffffff;
+  text-align: center;
+}
+
+h2 {
+  font-size: 45px;
+  color: #ffffff;
+}
+
+p, li {
+  font-size: 16px;
+  color: #ffff;
+  padding: 0 20PX 0 20px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+  border: 1px solid #adff2f;
+}
